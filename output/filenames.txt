@@ -1,0 +1,6 @@
+./output/uppercase.txt
+./output/0.txt
+./output/1.txt
+./output/2.txt
+./output/3.txt
+./output/sorted.txt
